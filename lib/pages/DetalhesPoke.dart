@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'PokemonJson.dart';
+import '../models/PokemonJson.dart';
 
 class DetalhesPokemons extends StatelessWidget {
   const DetalhesPokemons({

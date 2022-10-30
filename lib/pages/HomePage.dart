@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'PokemonJson.dart';
+import '../models/PokemonJson.dart';
 import 'package:http/http.dart' as http;
 
 class HomePage extends StatefulWidget {
